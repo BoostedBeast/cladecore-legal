@@ -39,6 +39,7 @@ Cladecore is made and published by an independent developer under the developer 
 - You can decline rewarded ads and still play; some optional rewards may use Ad Skip Tokens or gems instead.
 - You can clear app data / uninstall to remove local saves.
 - You can manage Play Games and ad personalization in your device / Google account settings.
+- To request deletion of Cladecore-related data, see [Account & data deletion](account-deletion.md).
 
 ## Children
 
