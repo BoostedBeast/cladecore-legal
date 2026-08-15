@@ -6,7 +6,7 @@ Cladecore (“the game”, “we”) is an idle / incremental mobile game. This 
 
 ## Who we are
 
-Cladecore is made and published by an independent developer. **BoostedBeast** is a public display / developer alias (not a registered company name). Contact: Discord invite linked in the game’s Archive → Social section, or issues on the public legal docs repository.
+Cladecore is made and published by an independent developer under the developer alias **fawlkfaw** (not a registered company). Contact: Discord invite linked in the game’s Archive → Social section, or issues on the public legal docs repository.
 
 ## Data we collect and why
 
