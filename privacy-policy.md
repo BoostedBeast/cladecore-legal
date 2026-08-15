@@ -6,7 +6,7 @@ Cladecore (“the game”, “we”) is an idle / incremental mobile game. This 
 
 ## Who we are
 
-Cladecore is published by BoostedBeast. Contact: Discord invite linked in the game’s Archive → Social section, or via the GitHub repository for this project.
+Cladecore is made and published by an independent developer. **BoostedBeast** is a public display / developer alias (not a registered company name). Contact: Discord invite linked in the game’s Archive → Social section, or issues on the public legal docs repository.
 
 ## Data we collect and why
 
@@ -50,4 +50,4 @@ We may update this policy; the “Last updated” date will change. Continued us
 
 ## Contact
 
-Questions: use the in-game Discord link or open an issue on the project’s GitHub repository.
+Questions about this policy: use the in-game Discord link. You can also open an issue on the public [cladecore-legal](https://github.com/BoostedBeast/cladecore-legal) repository.
