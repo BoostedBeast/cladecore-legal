@@ -13,7 +13,7 @@ Open a request using either:
 1. **Discord** — use the invite link in the game under Archive → Social, and message about “Cladecore data deletion,” or  
 2. **GitHub** — open an issue on the public [cladecore-legal](https://github.com/BoostedBeast/cladecore-legal) repository with the title **Account / data deletion request**.
 
-Please include enough detail to identify your request (for example: Google Play order / Play Games nickname if you use cloud save, approximate install date, and what you want removed). Do **not** post passwords or sensitive payment details.
+Please say what you want removed (for example: support messages, help with Cladecore cloud save, or confirmation that local data is on you to clear). You do not need to send Google Play order numbers or account passwords — we cannot look up or wipe Google accounts from an admin panel.
 
 We aim to respond within **30 days**.
 
